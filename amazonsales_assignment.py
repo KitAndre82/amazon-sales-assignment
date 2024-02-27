@@ -128,7 +128,6 @@ print("Total sales revenue from orders:", total_orders)
 print("Total refunds:", total_refunds)
 
 
-# In[ ]:
 
 
 
